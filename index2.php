@@ -1,3 +1,3 @@
-git pull origin develop<?php
+<?php
 
 phpinfo();
